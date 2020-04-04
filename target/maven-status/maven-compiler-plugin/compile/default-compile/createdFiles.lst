@@ -1,0 +1,9 @@
+com\example\config\ServiceConfig.class
+com\example\domain\Cargo.class
+com\example\Application.class
+com\example\db\CargoRepository.class
+com\example\services\CargoService.class
+com\example\services\CustomerService.class
+com\example\controllers\CargoServiceController.class
+com\example\domain\Customer.class
+com\example\db\CustomerRepository.class
